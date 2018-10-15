@@ -1,6 +1,7 @@
 Random Forest
 
 In this folder, I am using random forest method. 
+
 'First task' and 'Second task' are examples of using random forest method to make class predictions. The difference between the two files is that the dataset used in 'First task' has linear association, while the dataset used in 'Second task' has epistatic interaction.
 
 'Parameter sweeping' talked about several important parameters in random forest classifier. 
